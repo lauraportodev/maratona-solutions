@@ -1,0 +1,1 @@
+⭐⭐⭐ Vamos fazer um sistema de ingressos de Cinema. Pergunte a idade até que a pessoa digite 0 para sair. Se a pessoa tiver menos que 10 anos ou mais que 60 informe "Meia Entrada" se não, informe "Inteira". Ao terminar imprima: "Total de x ingressos vendidos, sendo y meia entrada"

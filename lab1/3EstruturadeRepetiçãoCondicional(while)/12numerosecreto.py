@@ -1,0 +1,1 @@
+⭐⭐ O programa define um número secreto entre 1 e 10 (fixo mesmo, tipo 7). O usuário tem no máximo 3 tentativas para acertar. A cada tentativa: informe se o chute está certo ou errado. No final: informe se o jogador venceu ou perdeu.

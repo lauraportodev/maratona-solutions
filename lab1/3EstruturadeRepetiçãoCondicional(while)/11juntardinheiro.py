@@ -1,0 +1,1 @@
+⭐⭐ Uma pessoa quer juntar dinheiro até atingir R$ 1000. O programa deve pedir valores de depósito (um por vez) e somar ao total. Quando o valor total atingir ou ultrapassar 1000, o programa deve parar e informar: o total acumulado e quantos depósitos foram feitos.
