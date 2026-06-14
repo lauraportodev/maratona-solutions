@@ -5,7 +5,7 @@ import time
 print("Cronometro")
 
 # Faz uma animação com três pontos
-for i in range():
+for i in range(10):
     time.sleep(1)   # pausa de 1 segundo
     print(".", end="")
 

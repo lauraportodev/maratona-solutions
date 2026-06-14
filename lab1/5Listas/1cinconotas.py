@@ -1,4 +1,8 @@
 # ⭐⭐ Faça um programa que leia cinco notas, armazene em uma lista e depois calcule e 
 # imprima: soma das notas, média das notas e quantidade de elementos na lista
 
-nota=float(input("Digite uma nota:"))
+notas=[]
+for i in range (1,6):
+    notas=float(input (f"Digite a {i}º nota:"))
+    print("Soma:", sum(notas))
+
