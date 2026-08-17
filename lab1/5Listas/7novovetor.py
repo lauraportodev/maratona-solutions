@@ -1,0 +1,1 @@
+⭐⭐ Dados os vetores numpy: vetor1 = [1,2,3,4] e vetor2 = [5,6,7,8] imprima um novo vetor que seja equivalente a soma dos dois vetores anteriores.
